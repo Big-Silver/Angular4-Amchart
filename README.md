@@ -1,4 +1,4 @@
-# `Angular 4 Seed` — starter project for Angular 4 apps
+# `Angular 4 - Amchart` — starter project for Angular 4 apps
 
 This project is an application skeleton for a [Angular4][angular4] web app. You can use it
 to quickly bootstrap your angular4 projects and dev environment for these projects.
